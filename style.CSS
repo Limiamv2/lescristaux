@@ -2,7 +2,7 @@
 body{
     margin: auto;
     padding: 20px 50px;
-    background-image: url(images/backgroundcristeaux.jpg);
+    background-image: url(backgroundcristeaux.jpg);
     background-size: 1700px 1000px;
     background-attachment: fixed;
 }
