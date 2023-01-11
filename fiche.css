@@ -1,0 +1,17 @@
+
+body{
+    margin: auto;
+    padding: 20px 50px;
+    background-color: white;
+
+}
+
+h1{
+    font-family: "Merryweather", serif;
+    font-size: 50px;
+}
+
+p{
+    font-family: "Merryweather", serif;
+    font-size: 32px;
+}
